@@ -1,2 +1,2 @@
-# rsschool-cv
-[Link](https://Andrean-82.github.io/rsschool-cv/cv)
+# rsschool-cv-html
+[Link](https://Andrean-82.github.io/rsschool-cv/)
